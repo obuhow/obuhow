@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @obuhow
-- 🌱 I’m currently learning C, Python, 
+- 🌱 I’m currently learning C, Python 
 - 💞️ I’m looking to collaborate on Data & SEO projects
 - 👀 I’m interested in Music & Social Technologies
-- 📫 You can reach me by p@obuhov.pro
+- 📫 You can reach me by mail p@obuhov.pro
 
 <!---
 obuhow/obuhow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
