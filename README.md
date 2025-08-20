@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obuhow
-- 🌱 I’m currently practicing C, Python
+- 🌱 I’m currently practicing Java, C, Python
 - 💞️ I’m looking to collaborate on Web Projects
-- 👀 I’m interested in Music & ML Technologies
+- 👀 I’m interested in Music Technologies
 - 💬 My telegram: [@obuhow](https://t.me/obuhow)
 - 📫 Mail: p@obuhov.pro
 
