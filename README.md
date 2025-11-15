@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obuhow
-- 🌱 I’m currently practicing Java, C, Python
-- 💞️ I’m looking to collaborate on Web Projects
-- 👀 I’m interested in Music Technologies
+- 🌱 I’m QA-engineer with automation skills 
+- 💞️ I’m currently practicing Java
+- 👀 I’m interested in AI Technologies
 - 💬 My telegram: [@obuhow](https://t.me/obuhow)
 - 📫 Mail: p@obuhov.pro
 
