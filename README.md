@@ -25,7 +25,7 @@
 
 **Пишу весь код самостоятельно, использую LLM только для ревью и помощи в документировании.**
 
-**🔗 Ссылки:**
+**Ссылки:**
 - 🚀 Live demo: [http://176.109.101.94](http://176.109.101.94)
 - 🌐 Swagger UI: [http://176.109.101.94:8081/swagger-ui/index.html](http://176.109.101.94:8081/swagger-ui/index.html)
 - 📝 Текущий релиз: **1.0** · следующий: **1.1**
@@ -42,7 +42,7 @@
 - **Docker** + **GitHub Actions** — CI/CD с автодеплоем на Cloud.ru
 </details>
 
-**🔧 Стек:** `Java 21` · `Spring Boot 3.1.5` · `Gradle 8.5` · `Vue 3 (Vite)` · `PostgreSQL 14` · `Springdoc OpenAPI` · `Docker` · `GHCR` · `GitHub Actions` · `Cloud.ru`
+**Стек:** `Java 21` · `Spring Boot 3.1.5` · `Gradle 8.5` · `Vue 3 (Vite)` · `PostgreSQL 14` · `Springdoc OpenAPI` · `Docker` · `GHCR` · `GitHub Actions` · `Cloud.ru`
 
 
 
@@ -58,7 +58,7 @@
 - Использую доступные бесплатно LLM (Nemotron Ultra, Gemini Flash) для работы над приложением. Платные более мощные LLM подключаю, если бесплатная сеть не справляется (GPT 5.6 Luna, Terra, Claude Sonnet, Opus). Либо для ревью кода и архитектуры (Claude Opus 4.6)
 
 
-**🔧 Стек:** `Java 21` · `Spring Boot 3` · `Gradle` · `Vue 3 (Vite)` · `PostgreSQL 16` · `Docker`.
+**Стек:** `Java 21` · `Spring Boot 3` · `Gradle` · `Vue 3 (Vite)` · `PostgreSQL 16` · `Docker`.
 
 
 <!---
