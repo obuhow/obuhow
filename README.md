@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Сейчас
+## Сейчас
 
 Два года тестировал высоконагруженные сервисы массовых зачислений в **Сбере** — там я полюбил Java-стек (Spring, REST API, PostgreSQL, Kafka) и начал писать автотесты. После увольнения в **ноябре 2025** взял курс на backend-разработку:
 
@@ -17,9 +17,9 @@
 
 ---
 
-## 🚀 Главные проекты
+## Главные проекты
 
-### 🎮 [TicTacToeWebGame](https://github.com/obuhow/TicTacToeWebGame) — учебный проект на Spring Boot
+### [TicTacToeWebGame](https://github.com/obuhow/TicTacToeWebGame) — учебный проект на Spring Boot
 
 - Полноценный backend-проект для портфолио Java-разработчика: REST API, БД, авторизация, CI/CD, документация.
 
@@ -42,13 +42,13 @@
 - **Docker** + **GitHub Actions** — CI/CD с автодеплоем на Cloud.ru
 </details>
 
-**🔧 Стек:** `Java 21` · `Spring Boot 3.1.5` · `Gradle 8.5` · `PostgreSQL 14` · `Springdoc OpenAPI` · `Docker` · `GHCR` · `GitHub Actions` · `Cloud.ru`
+**🔧 Стек:** `Java 21` · `Spring Boot 3.1.5` · `Gradle 8.5` · `Vue 3 (Vite)` · `PostgreSQL 14` · `Springdoc OpenAPI` · `Docker` · `GHCR` · `GitHub Actions` · `Cloud.ru`
 
 
 
 ---
 
-### 🎮 [WolfsOwnLifeFramework](https://github.com/obuhow/WolfsOwnLifeFramework) — коммерческий проект на микросервисной архитектуре. Код пишет LLM.
+### [WolfsOwnLifeFramework](https://github.com/obuhow/WolfsOwnLifeFramework) — коммерческий проект на микросервисной архитектуре. Код пишет LLM.
 
 - Система управления свободным временем для предпринимателей, фрилансеров, художников, разработчиков
 
@@ -58,7 +58,7 @@
 - Использую доступные бесплатно LLM (Nemotron Ultra, Gemini Flash) для работы над приложением. Платные более мощные LLM подключаю, если бесплатная сеть не справляется (GPT 5.6 Luna, Terra, Claude Sonnet, Opus). Либо для ревью кода и архитектуры (Claude Opus 4.6)
 
 
-**🔧 Стек:** `Java 21 + Spring Boot 3 + Gradle`, `Vue 3 (Vite)`, `PostgreSQL`, `JWT`, `Docker Compose`.
+**🔧 Стек:** `Java 21` · `Spring Boot 3` · `Gradle` · `Vue 3 (Vite)` · `PostgreSQL 16` · `Docker`.
 
 
 <!---
