@@ -19,7 +19,7 @@
 
 ## Главные проекты
 
-### [TicTacToeWebGame](https://github.com/obuhow/TicTacToeWebGame) — учебный проект на Spring Boot
+### [TicTacToeWebGame](https://github.com/obuhow/TicTacToeWebGame) — Крестики-нолики онлайн, учебный проект
 
 - Полноценный backend-проект для портфолио Java-разработчика: REST API, БД, авторизация, CI/CD, документация.
 
@@ -48,9 +48,9 @@
 
 ---
 
-### [WolfsOwnLifeFramework](https://github.com/obuhow/WolfsOwnLifeFramework) — Open-source проект на клиент-серверной архитектуре. Код пишет LLM, я пишу требования, организую workflow, управляю агентской разработкой.
+### [WolfsOwnLifeFramework](https://github.com/obuhow/WolfsOwnLifeFramework) — система управления свободным временем для предпринимателей, фрилансеров, художников, разработчиков
 
-- Система управления свободным временем для предпринимателей, фрилансеров, художников, разработчиков
+- Open-source проект на клиент-серверной архитектуре. Код пишет LLM, я пишу требования, организую workflow, управляю агентской разработкой.
 
 **Мои правила агентской разработки:**
 - Разрабатываю по SDD (Spec-Driven Development) с применением скиллов grill-me, to-spec, to-tickets, implement, review
