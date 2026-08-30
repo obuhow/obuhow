@@ -48,7 +48,7 @@
 
 ---
 
-### [WolfsOwnLifeFramework](https://github.com/obuhow/WolfsOwnLifeFramework) — коммерческий проект на микросервисной архитектуре. Код пишет LLM.
+### [WolfsOwnLifeFramework](https://github.com/obuhow/WolfsOwnLifeFramework) — Open-source проект на клиент-серверной архитектуре. Код пишет LLM, я пишу требования, организую workflow, управляю агентской разработкой.
 
 - Система управления свободным временем для предпринимателей, фрилансеров, художников, разработчиков
 
