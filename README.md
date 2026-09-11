@@ -54,7 +54,7 @@
 
 **Ссылки:**
 - 🚀 Live demo: [http://wolf-demo.smallmba.space](http://wolf-demo.smallmba.space) 
-- Текущий релиз: **1.0** · следующий: **1.1**
+- Текущий релиз: **1.3** · следующий: **1.4**
 
 <details>
 <summary><b>Мои правила агентской разработки:</b></summary>
