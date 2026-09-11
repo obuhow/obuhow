@@ -26,8 +26,8 @@
 **Пишу весь код самостоятельно, использую LLM только для ревью и помощи в документировании.**
 
 **Ссылки:**
-- 🚀 Live demo: [http://195.19.20.116](http://195.19.20.116) 
-- Swagger UI: [http://195.19.20.116:8081/swagger-ui/index.html](http://195.19.20.116:8081/swagger-ui/index.html)
+- 🚀 Live demo: [http://tictactoe.obuhov.pro](http://tictactoe.obuhov.pro/auth)
+- Swagger UI: [http://tictactoe.obuhov.pro:8081/swagger-ui/index.html](http://tictactoe.obuhov.pro:8081/swagger-ui/index.html)
 - Текущий релиз: **1.0** · следующий: **1.1**
 
 <details>
